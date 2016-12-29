@@ -1,0 +1,24 @@
+{
+  "name": "node-collect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "dependencies": {
+    "jsdom": "^9.9.1",
+    "gbk": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaofei019/node-collect.git"
+  },
+  "author": "Kevin Gao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaofei019/node-collect/issues"
+  },
+  "homepage": "https://github.com/gaofei019/node-collect#readme"
+}
